@@ -1,6 +1,6 @@
 # Predictive Analytics and Machine Learning Using Python
 
-This folder contains weekly coursework and hands-on exercises from the "Predictive Analytics and Machine Learning Using Python" (PAMLUP) module, part of my MSc in Data Analytics and Finance.
+This folder contains weekly coursework and hands-on exercises from the "Predictive Analytics and Machine Learning Using Python" (PAMLUP) module, part of my MSc in Data Analytics
 
 Each notebook explores a core concept in machine learning, including data preprocessing, regression models, classification techniques, and model evaluation.
 
