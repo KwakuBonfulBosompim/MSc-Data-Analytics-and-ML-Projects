@@ -1,6 +1,6 @@
 # MSc Data Analytics and Machine Learning Projects
 
-This repository contains weekly coursework, hands-on projects, and assignments completed during my MSc in Finance and Investment, with a specialization in **Data Analytics and Predictive Machine Learning Using Python**.
+This repository contains weekly coursework, hands-on projects for my current studies in Msc Data Analytics
 
 Each notebook reflects practical application of key data science and machine learning techniques taught during lectures and lab sessions.
 
