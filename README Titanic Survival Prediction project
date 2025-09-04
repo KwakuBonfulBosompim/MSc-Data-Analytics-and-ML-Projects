@@ -1,1 +1,26 @@
+# Titanic Survival Prediction 🚢
+
+This project uses **Logistic Regression** on the Titanic dataset to predict passenger survival.  
+The notebook includes:
+
+- Data loading & exploratory data analysis (EDA)  
+- Feature engineering (imputation, encoding, scaling)  
+- Logistic Regression with scikit-learn pipelines  
+- Model evaluation (accuracy, cross-validation)  
+
+## Files
+- `Titanic_Logistic_Regression.ipynb` → Main notebook
+
+## Tech Stack
+- Python  
+- Pandas, NumPy  
+- scikit-learn  
+- Matplotlib, Seaborn  
+
+## Results
+- Validation Accuracy: ~85%  
+
+---
+
+⭐ Feel free to fork, star, or suggest improvements!
 
